@@ -171,3 +171,12 @@ body {
     width: 700px;
   }
 }
+
+/*
+  MailChimp
+*/
+#mc_embed_signup{
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
