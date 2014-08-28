@@ -1,0 +1,24 @@
+* Together We Wrote
+
+This repository contains the source files for togetherwewrote.com - the companion site for the
+Together We Wrote notebook project.
+
+* Building the site
+
+This project uses [[http://github.com/mbutterick/pollen][Pollen]], a Racket-based web publishing system. Once you have Pollen installed, you
+can build the site from scratch with
+
+#+BEGIN_EXAMPLE
+raco pollen render
+#+END_EXAMPLE
+
+You can also start a preview server with
+
+#+BEGIN_EXAMPLE
+raco pollen start
+#+END_EXAMPLE
+
+* License
+
+The content of the site is licensed under the Creative Commons Attribution-ShareAlike 4.0 license,
+and the source is provided under the MIT license.
